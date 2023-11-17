@@ -1,0 +1,35 @@
+2 2 20
+number of machines at each stage in each factory:
+3,2
+4,5
+speed of each machine:
+1.4,1.0,1.1
+1.2,1.2
+1.3,1.3,1.3,1.5
+1.2,1.4,1.4,1.0,1.4
+power consumption of each machine:
+7,7,8
+9,8
+7,5,10,7
+7,8,10,8,6
+standom processing time of each job at each stage:
+28,45
+32,34
+13,17
+46,21
+43,22
+14,43
+25,15
+31,16
+11,19
+47,50
+23,19
+11,28
+12,35
+31,22
+14,39
+24,32
+13,43
+46,34
+24,20
+30,48
